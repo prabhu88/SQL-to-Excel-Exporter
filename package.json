@@ -1,0 +1,16 @@
+{
+  "name": "SQL-to-Excel-Exporter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/prabhu88/SQL-to-Excel-Exporter.git",
+  "author": "prabhu88 <s.prabhu.mtech88@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "exceljs": "^4.3.0",
+    "mysql": "^2.18.1"
+  }
+}
